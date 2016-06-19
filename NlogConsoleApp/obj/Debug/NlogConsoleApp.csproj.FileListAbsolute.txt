@@ -1,0 +1,9 @@
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\bin\Debug\NlogConsoleApp.exe.config
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\bin\Debug\NLog.config
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\bin\Debug\NlogConsoleApp.exe
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\bin\Debug\NlogConsoleApp.pdb
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\bin\Debug\NLog.dll
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\bin\Debug\NLog.xml
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\obj\Debug\NlogConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\obj\Debug\NlogConsoleApp.exe
+C:\Users\satnams\0SS\00 Code\NlogConsoleApp\NlogConsoleApp\obj\Debug\NlogConsoleApp.pdb
